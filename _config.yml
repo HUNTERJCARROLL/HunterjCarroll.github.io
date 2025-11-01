@@ -85,11 +85,11 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Math, She Wrote # blog_name will be displayed in your blog page
-blog_description: I intend to use this blog to post interesting math finds, or if I ever want to deep dive into a concept, elementary or complex, my blog will serve as
-a place where my thoughts and passion for math can live and continuously be updated as I improve my explanations.
+blog_name: "Math, She Wrote"
+blog_description: "I intend to use this blog as a place where my thoughts and passion for math intersect."
 permalink: /blog/:year/:title/
-lsi: false # produce an index for related posts
+lsi: false
+
 
 # Pagination
 pagination:
